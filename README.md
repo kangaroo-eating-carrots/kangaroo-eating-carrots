@@ -6,7 +6,7 @@
 </br>
 
 ⚡ Apps on Google Play</br>
-   - <a href="https://play.google.com/store/apps/details?id=com.kangarooeatingcarrots.myspeakingnote.paid/" target="_blank">My Speaking Note </a>
+   - <a href="https://play.google.com/store/apps/details?id=com.kangarooeatingcarrots.myspeakingnote.paid" target="_blank">My Speaking Note </a>
 </br></br>
 
 ![Jeonghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangaroo-eating-carrots&theme=shadow_red&show_icons=true&rank_icon=github)
