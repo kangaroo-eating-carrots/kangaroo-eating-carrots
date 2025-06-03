@@ -5,6 +5,9 @@
 🤔 You can see more information from <a href="https://kangaroo-eating-carrots.github.io/Profile-Website/" target="_blank">my personal profile website </a>
 </br></br>
 
+Apps on Google Play
+-<a href="https://play.google.com/store/apps/details?id=com.kangarooeatingcarrots.myspeakingnote.paid/" target="_blank"> My Speaking Note </a>
+
 ![Jeonghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangaroo-eating-carrots&theme=shadow_red&show_icons=true&rank_icon=github)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
