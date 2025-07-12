@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 I’m a newbie in the "Hello World"
+🌱 I’m a newbie in the "Hello World".
 
 🤔 You can see more information from <a href="https://kangaroo-eating-carrots.github.io/Profile-Website/" target="_blank">my personal profile website </a>
 </br>
