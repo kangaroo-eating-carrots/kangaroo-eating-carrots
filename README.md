@@ -9,10 +9,6 @@
    - <a href="https://play.google.com/store/apps/details?id=com.kangarooeatingcarrots.myspeakingnote.paid" target="_blank">My Speaking Note </a>
 </br></br>
 
-![Jeonghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangaroo-eating-carrots&theme=shadow_red&show_icons=true&rank_icon=github)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kangaroo-eating-carrots)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kangaroo-eating-carrots)](https://git.io/streak-stats)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
