@@ -6,7 +6,9 @@
 </br>
 
 ⚡ Apps on Google Play</br>
-   - <a href="https://play.google.com/store/apps/details?id=com.kangarooeatingcarrots.myspeakingnote.paid" target="_blank">My Speaking Note </a>
+   - <a href="https://play.google.com/store/apps/details?id=com.kangarooeatingcarrots.myspeakingnote.paid" target="_blank">My Speaking Note</a> <span>| Speech Practice & Memorization</span>
+   - <a href="https://play.google.com/store/apps/details?id=com.busygomdeveloper.todoblocks" target="_blank">To Do Blocks</a> <span>| Block-Style Task Organizer</span>
+   
 </br></br>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kangaroo-eating-carrots)](https://git.io/streak-stats)
